@@ -22,4 +22,4 @@ app.use(require("./routes/todo"))
 
 
 
-app.listen(3002, () => console.log("Server started listening on port: 3000"));
+app.listen(3002, () => console.log("Server started listening on port: 3002"));
